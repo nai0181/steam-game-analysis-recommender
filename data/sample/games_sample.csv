@@ -1,0 +1,13 @@
+appid,name,price,release_date,developer,genres,tags,positive_rate,review_count
+100001,Ashen Crown,199.0,2024-02-16,Nightforge Studio,Action|RPG,Open World|Souls-like|Dark Fantasy|Difficult|Exploration,0.94,58200
+100002,Hollow Oath,168.0,2023-10-27,Black Lantern Games,Action|RPG,Souls-like|Dark Fantasy|Difficult|Boss Rush|Third Person,0.91,41300
+100003,Eclipse Requiem,219.0,2025-03-14,Iron Vale Interactive,Action|RPG,Open World|Dark Fantasy|Souls-like|Exploration|Story Rich,0.89,26700
+100004,Greenfield Days,68.0,2022-06-03,Meadow Pixel,Simulation|Casual,Farming|Relaxing|Life Sim|Pixel Graphics|Crafting,0.96,73500
+100005,Little Harbor,58.0,2023-08-11,Blue Kettle Studio,Simulation|Casual,Relaxing|Life Sim|Fishing|Crafting|Cute,0.93,28400
+100006,Harvest Moonlight,78.0,2024-09-20,Soft Fern Games,Simulation|RPG,Farming|Life Sim|Relaxing|Crafting|Pixel Graphics,0.90,19600
+100007,Zero Breach,128.0,2024-01-19,Red Sector Works,Action,FPS|Multiplayer|Competitive|Tactical|Team-Based,0.88,64200
+100008,Frontline Echo,138.0,2023-05-12,Vector Nine,Action,FPS|Multiplayer|Tactical|Team-Based|Military,0.86,51700
+100009,Neon Trigger,98.0,2025-01-31,Glass Circuit,Action,FPS|Fast-Paced|Multiplayer|Sci-Fi|Competitive,0.84,22100
+100010,Empire Ledger,108.0,2022-11-04,Northbridge Labs,Strategy|Simulation,Management|Economy|City Builder|Resource Management|Singleplayer,0.92,33700
+100011,Foundry Republic,118.0,2024-04-05,Clockwork Harbor,Strategy|Simulation,Management|Automation|Resource Management|Economy|Building,0.95,40900
+100012,Kingdom Architect,88.0,2023-02-24,Oak Banner Studio,Strategy|Simulation,City Builder|Management|Economy|Medieval|Resource Management,0.89,25100
